@@ -3,6 +3,5 @@
 
   <PropertyGroup>
     <PackageId>Microsoft.AspNetCore.Diagnostics.Sources</PackageId>
-    <IsPackable>false</IsPackable>
   </PropertyGroup>
 </Project>

@@ -3,6 +3,5 @@
 
     <PropertyGroup>
         <PackageId>Microsoft.AspNetCore.HttpSys.Sources</PackageId>
-        <IsPackable>false</IsPackable>
     </PropertyGroup>
 </Project>
