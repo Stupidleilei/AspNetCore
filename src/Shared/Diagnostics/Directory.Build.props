@@ -2,6 +2,6 @@
   <Import Project="$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildThisFileDirectory)..\, Directory.Build.props))\Directory.Build.props" />
 
   <PropertyGroup>
-    <PackageId>Microsoft.AspNetCore.Diagnostics.Sources</PackageId>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 </Project>
